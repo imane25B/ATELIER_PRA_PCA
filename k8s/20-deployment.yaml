@@ -29,7 +29,12 @@ spec:
           volumeMounts:
             - name: data
               mountPath: /data
+            - name: backup
+              mountPath: /backup
       volumes:
         - name: data
           persistentVolumeClaim:
             claimName: pra-data
+        - name: backup
+          persistentVolumeClaim:
+            claimName: pra-backup
