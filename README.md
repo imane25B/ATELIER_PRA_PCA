@@ -214,6 +214,6 @@ kubectl -n pra port-forward svc/flask 8080:80 >/tmp/web.log 2>&1 &
 
 **Capture d'écran de la restauration réussie :**
 
-> 📸 *[INSÉRER ICI LE SCREENSHOT DES LOGS : "Restauration depuis : /backup/app-XXXXXXXXXX.db — OK"]*
+> 📸 <img width="895" height="274" alt="image" src="https://github.com/user-attachments/assets/dfefba5c-ca77-46d5-9004-bfdefce12e14" />
 
-> 📸 *[INSÉRER ICI LE SCREENSHOT DE /consultation APRÈS RESTAURATION]*
+
