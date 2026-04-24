@@ -215,5 +215,6 @@ kubectl -n pra port-forward svc/flask 8080:80 >/tmp/web.log 2>&1 &
 **Capture d'écran de la restauration réussie :**
 
 > 📸 <img width="895" height="274" alt="image" src="https://github.com/user-attachments/assets/dfefba5c-ca77-46d5-9004-bfdefce12e14" />
+<img width="1885" height="342" alt="image" src="https://github.com/user-attachments/assets/75e2fc88-351d-4050-a358-73acb2a31408" />
 
 
