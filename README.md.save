@@ -206,14 +206,3 @@ kubectl -n pra port-forward svc/flask 8080:80 >/tmp/web.log 2>&1 &
 ```
 
 **Étape 6 — Vérifier la restauration**
-```bash
-# Dans le navigateur :
-# https://.../consultation
-# https://.../count
-```
-
-**Capture d'écran de la restauration réussie :**
-
-> 📸 *[INSÉRER ICI LE SCREENSHOT DES LOGS : "Restauration depuis : /backup/app-XXXXXXXXXX.db — OK"]*
-
-> 📸 *[INSÉRER ICI LE SCREENSHOT DE /consultation APRÈS RESTAURATION]*
