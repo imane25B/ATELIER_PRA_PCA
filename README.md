@@ -216,4 +216,5 @@ kubectl -n pra port-forward svc/flask 8080:80 >/tmp/web.log 2>&1 &
 
 > 📸 <img width="895" height="274" alt="image" src="https://github.com/user-attachments/assets/dfefba5c-ca77-46d5-9004-bfdefce12e14" />
 
+<img width="1885" height="342" alt="image" src="https://github.com/user-attachments/assets/176eeb18-ad6c-4654-b5c6-366850c59021" />
 
